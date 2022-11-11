@@ -4,7 +4,7 @@ const { createBot } = require('whatsapp-cloud-api');
     try {
       
       const from = '108957422027938';
-      const token = 'EAALeR4K29ZAEBABQwCwBT6UBU6n0SPYBKqeuuP15Y7wkX4rtCQMIb3uLZBdf2xxGZALU8JXC4IamZB9NWDj6YCVsdsv0VxNkeD29WwDSph5V9SoSLSmMYuzZAFKntwVZCKJieLzaPYKWZCvMc7meIPD6g1YqWbU5hSZCT7NiTUK2yqmLuHSqJfWZAR95IdiYRhOx8auq5rEFwZABCZBNeHS7xU8';
+      const token = '';
       const to = '50251246386';
       const webhookVerifyToken = 'byronrmrzwebhookw';
   
