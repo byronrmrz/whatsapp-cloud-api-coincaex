@@ -3,10 +3,10 @@ const { createBot } = require('whatsapp-cloud-api');
 (async () => {
     try {
       
-      const from = '108957422027938';
-      const token = 'EAALeR4K29ZAEBABQwCwBT6UBU6n0SPYBKqeuuP15Y7wkX4rtCQMIb3uLZBdf2xxGZALU8JXC4IamZB9NWDj6YCVsdsv0VxNkeD29WwDSph5V9SoSLSmMYuzZAFKntwVZCKJieLzaPYKWZCvMc7meIPD6g1YqWbU5hSZCT7NiTUK2yqmLuHSqJfWZAR95IdiYRhOx8auq5rEFwZABCZBNeHS7xU8';
-      const to = '50251246386';
-      const webhookVerifyToken = 'byronrmrzwebhookw';
+      const from = 'whatsapp phone number ID';
+      const token = 'whatsapp token';
+      const to = 'phone number (recipient)';
+      const webhookVerifyToken = 'webhook token';
   
       const bot = createBot(from, token);
   
